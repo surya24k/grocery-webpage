@@ -1,0 +1,39 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: bisque;
+    text-align: right;
+}
+.nav ul{
+    list-style-type: none;
+    display: flex;
+    text-align: center;
+}
+.nav li{
+    margin: 3px 3px;
+    padding: 10px 15px;
+    text-align: center;
+}
+a:link{
+    text-decoration: none;
+}
+img{
+    margin-left: 290px;
+}
+h1{
+    margin-left: 550px;
+}
+.abo{
+    display: flex;
+    text-align: center;
+    /*justify-content: space-between;*/
+}
+.p{
+    text-align: center;
+    margin-right: 700px;
+}
+.ser{
+    display: flex;
+    text-align: center;
+    /*justify-content: space-between;*/
+}
